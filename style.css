@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+ buttonDiv.style("position", "absolute");
+  buttonDiv.style("top", "20px");
+  buttonDiv.style("left", "20px");
